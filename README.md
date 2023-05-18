@@ -6,7 +6,7 @@ Este repositorio contiene una serie de ejercicios prácticos para practicar y af
 
 El repositorio está organizado de la siguiente manera:
 
-- **ejercicios_variables_python**: Este directorio contiene un archivo de texto llamado `ejercicios_variables_python.py` que contiene tanto los enunciados de los ejercicios como las soluciones propuestas.
+- **ejercicios_variables_python**: Este directorio contiene diversos archivos de texto que cada uno es un ejercicio estos contienen tanto los enunciados de los ejercicios como las soluciones propuestas. Además añadir que hay algunos ejercicios realizados de diversas formas, de ahi que haya varios archivos con el mimso número de ejercicio.
 
 ## Cómo utilizar este repositorio
 
